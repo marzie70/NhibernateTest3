@@ -1,0 +1,12 @@
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\NhibernateTest3.exe.config
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\obj\Debug\NhibernateTest3.csprojResolveAssemblyReference.cache
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\NhibernateTest3.exe
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\NhibernateTest3.pdb
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\FluentNHibernate.dll
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\Iesi.Collections.dll
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\NHibernate.dll
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\FluentNHibernate.xml
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\Iesi.Collections.xml
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\bin\Debug\NHibernate.xml
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\obj\Debug\NhibernateTest3.exe
+c:\users\m.kazemi\documents\visual studio 2013\Projects\NhibernateTest3\NhibernateTest3\obj\Debug\NhibernateTest3.pdb
