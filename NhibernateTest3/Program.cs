@@ -18,7 +18,7 @@ namespace NhibernateTest3
                     var product = new Product
                     {
                         Name = "Cake",
-                        Price = 300
+                        Price = 400
                     };
                     var shelf = new Shelf();
                     {
